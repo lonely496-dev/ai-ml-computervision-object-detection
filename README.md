@@ -48,7 +48,7 @@ Real-time pose detection and classification . Detects body poses (Warrior II, T 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/POSE.git
+git clone https://github.com/lonely496-dev/ai-ml-computervision-object-detection.git
 cd POSE
 ```
 
