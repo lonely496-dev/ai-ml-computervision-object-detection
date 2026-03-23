@@ -5,7 +5,6 @@ Real-time pose detection and classification . Detects body poses (Warrior II, T 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.5-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.13.0-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
