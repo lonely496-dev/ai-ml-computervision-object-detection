@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+media/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+MANIFEST
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project outputs
+output/
+output_*.jpg
+output_*.mp4
+*.mp4
+*.avi
+*.mov
